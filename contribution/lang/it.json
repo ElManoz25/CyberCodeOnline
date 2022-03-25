@@ -1861,7 +1861,7 @@
  	 	 	 	"eng": "Reach printing rank 3"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Il livello degli elementi stampati con la cache sono determinati dal tuo rango di stampa, \r\n         Livellare il tuo rango di stampa in modo da poter stampare oggetti di livello superiore. \r\n        \r\n         È possibile trovare la stampante 3D molecolare su [Hub Central], usala per stampare ed aumentare il tuo rango di stampa",
+ 	 	 	 	"trans": "Il livello degli elementi stampati con la cache sono determinati dal tuo rango di stampa, \r\n         Aumenta il livello del tuo rango di stampa per stampare oggetti di livello superiore. \r\n        \r\n         È possibile trovare la stampante 3D molecolare su [Hub Central], usala per stampare ed aumentare il tuo rango di stampa",
  	 	 	 	"eng": "The level of itemS you print with Caches are determined by your Printing Rank,\r\n        level up your Printing Rank so you can print higher level items.\r\n        \r\n        You can find Molecular 3D Printer at [Central Hub], use it to print some caches to level up your Printing Rank"
  	 	 	}
  	 	},
