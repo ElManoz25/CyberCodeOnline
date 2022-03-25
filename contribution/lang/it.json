@@ -4643,7 +4643,7 @@
  	 	},
  	 	"equipmentQuickMenu": {
  	 	 	"unequip": {
- 	 	 	 	"trans": "inequivoca",
+ 	 	 	 	"trans": "disequipaggia",
  	 	 	 	"eng": "unequip"
  	 	 	},
  	 	 	"viewDetails": {
@@ -4827,7 +4827,7 @@
  	 	 	"eng": "Click here to scan for street enemies"
  	 	},
  	 	"localCombat": {
- 	 	 	"trans": "Riceverai EXP, ${currencyName} e saccheggiati quando si sconfiggi i nemici, \n                 provalo ora!",
+ 	 	 	"trans": "Riceverai EXP, ${currencyName} e equipaggiamento quando sconfiggi i nemici, \n                 provalo ora!",
  	 	 	"eng": "you will receive exp, ${currencyName} and loots when you defeat enemies,\n                give it a try now!"
  	 	},
  	 	"primaryAttack": {
@@ -4864,7 +4864,7 @@
  	 	 	 	"eng": "All PayPal purchases grants 10% additional Units! You may use paypal only on website version, simply login with your browser."
  	 	 	},
  	 	 	"paypalBonus": {
- 	 	 	 	"trans": "Riceverai ulteriori unità al 10% in più con l'acquisto di PayPal",
+ 	 	 	 	"trans": "Riceverai ulteriori unità al 10% in più con l'acquisto tramite PayPal",
  	 	 	 	"eng": "You will receive additional 10% more Units with paypal purchase"
  	 	 	}
  	 	},
